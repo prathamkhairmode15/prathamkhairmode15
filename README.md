@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Sachin Khairmode</h1>
-<h3 align="center">Aspiring Cybersecurity Analyst & Junior Java Developer | Actively Mastering Kali Linux, ROS, and Secure Coding Principles</h3>
+<h3 align="center">Aspiring Cybersecurity Analyst & Junior Java Developer | Actively Mastering Kali Linux, VAPT, Nmap and Metasploitable</h3>
 
 - 🌱 I’m currently learning **Cybersecurity and Java Development**
 
