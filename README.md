@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pratham</h1>
-<h3 align="center">Computer Science Engineering Student | AI • Cybersecurity • Development</h3>
+<h1 align="center">Hi 👋, I'm Pratham Sachin Khairmode</h1>
+<h3 align="center">Computer Science Undergrad | Aspiring Cybersecurity Analyst & Junior Java Developer | Actively Mastering Kali Linux, VAPT, Nmap and Metasploitable</h3>
 
 ---
 
@@ -12,12 +12,11 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Interships/Experience
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
+<p>Cyber Security Intern | Hack Secure</p>
+<p>Cyber Security & Ethical Hacker | ApexPlanet Software Pvt Ltd</p>
 </p>
 
 ---
@@ -63,15 +62,6 @@
 
 ---
 
-## ⚡ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-
----
 
 ## 👀 Profile Visitors
 
