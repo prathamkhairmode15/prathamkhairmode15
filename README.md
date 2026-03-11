@@ -133,16 +133,6 @@ Hash Generator with Dictionary Attack with wordlist
 
 ---
 
-# 👁 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=prathamkhairmode15&label=PROFILE+VIEWS&color=red&style=for-the-badge"/>
-
-</p>
-
----
-
 <p align="center">
 ⚡ <b>Exploring Systems | Breaking Security | Building Defenses</b> ⚡
 </p>
