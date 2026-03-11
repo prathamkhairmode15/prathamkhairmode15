@@ -35,8 +35,6 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathamkhairmode15&show_icons=true&theme=tokyonight"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamkhairmode15&theme=tokyonight"/>
 
 </p>
