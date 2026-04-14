@@ -44,7 +44,7 @@ ApexPlanet Software Pvt Ltd
 ## 💻 Programming & Scripting
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,go,bash,mysql,linux,git,matlab" />
+<img src="https://skillicons.dev/icons?i=python,go,java,cpp,bash,mysql,linux,git,matlab" />
 </p>
 
 ---
