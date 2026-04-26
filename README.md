@@ -100,7 +100,7 @@ Hash Generator with Dictionary Attack with wordlist
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamkhairmode15&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prathamkhairmode15&show_icons=true&theme=radical&cache_seconds=1800"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamkhairmode15&layout=compact&theme=tokyonight"/>
 
 </p>
