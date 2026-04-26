@@ -1,47 +1,43 @@
-<h1 align="center"> HI, I am Pratham Sachin Khairmode</h1>
+<h1 align="center">HI, I am Pratham Sachin Khairmode</h1>
 
 <p align="center">
-Computer Science Undergrad | Aspiring Cybersecurity Analyst & Junior Java Developer | Actively Mastering Kali Linux, VAPT, Nmap and Metasploitable
+Computer Science Undergrad | Aspiring Cybersecurity Analyst & Junior Java Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst;Ethical+Hacking+Learner;Kali+Linux+Enthusiast;VAPT+Practitioner;AI+Security+Tool+Builder;Network+Security+Explorer" />
+<img src="https://readme-typing-svg.demolab.com?color=FF0000&size=22&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst;Ethical+Hacking+Learner;Kali+Linux+Enthusiast;VAPT+Practitioner;AI+Security+Tool+Builder;Network+Security+Explorer&duration=3000&pause=800" />
 </p>
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
-🔐 Computer Science Undergraduate passionate about **Cybersecurity, AI Security and Ethical Hacking**
+🔐 Computer Science Undergraduate passionate about **Cybersecurity, AI Security & Ethical Hacking**
 
 ⚡ Currently mastering:
-
-- Kali Linux
-- Penetration Testing
-- Vulnerability Assessment
-- Network Security
-- Red Teaming Basics
-- Juinor Java Developer
+- Kali Linux  
+- Penetration Testing  
+- Vulnerability Assessment  
+- Network Security  
+- Red Teaming Basics  
+- Junior Java Development  
 
 🛠 Building **AI-powered cybersecurity tools**
 
-🎯 Goal: Become a **Cybersecurity Analyst / Red Team Specialist**
+🎯 Goal: **Cybersecurity Analyst / Red Team Specialist**
 
 ---
 
-# 💼 Internships / Experience
+## 💼 Internships / Experience
 
-🛡 **Cyber Security Intern**  
-Hack Secure
-
-🛡 **Cyber Security & Ethical Hacking Intern**  
-ApexPlanet Software Pvt Ltd
+🛡 Cyber Security Intern — Hack Secure  
+🛡 Cyber Security & Ethical Hacking Intern — ApexPlanet Software Pvt Ltd  
 
 ---
 
-# 🧰 Cybersecurity Arsenal
+## 🧰 Cybersecurity Arsenal
 
-## 💻 Programming & Scripting
+### 💻 Programming & Scripting
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,go,java,cpp,bash,mysql,linux,git,matlab" />
@@ -49,7 +45,7 @@ ApexPlanet Software Pvt Ltd
 
 ---
 
-# 🛠 Penetration Testing & Security Tools
+## 🛠 Security Tools
 
 <p align="center">
 
@@ -62,7 +58,6 @@ ApexPlanet Software Pvt Ltd
 <img src="https://img.shields.io/badge/JohnTheRipper-grey?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Nikto-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TheHarvester-darkgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Whois-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ReconNG-darkblue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gobuster-darkgrey?style=for-the-badge"/>
 
@@ -70,54 +65,59 @@ ApexPlanet Software Pvt Ltd
 
 ---
 
-# 🧪 Areas of Interest
+## 🧪 Areas of Interest
 
 🔍 Penetration Testing  
 🛡 Vulnerability Assessment  
 🌐 Network Security  
 🔐 Web Application Security  
 ⚡ Red Team Tools Development  
-🤖 AI in Cybersecurity 
-  JAVA Developer
+🤖 AI in Cybersecurity  
+☕ Java Development  
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-🔐 **AutoRed**  
-AI Powered Automated Penetration Testing Tool
-
-🌾 **Krishibodh**  
-Smart Greenhouse Automation System
-
-📊 **MODULO**  
-Hash Generator with Dictionary Attack with wordlist
+🔐 **AutoRed** – AI Powered Automated Penetration Testing Tool  
+🌾 **Krishibodh** – Smart Greenhouse Automation System  
+📊 **MODULO** – Hash Generator with Dictionary Attack  
 
 ---
 
-# 📊 GitHub Statistics
-
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathamkhairmode15&show_icons=true&theme=radical&cache_seconds=1800"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamkhairmode15&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prathamkhairmode15&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=600"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamkhairmode15&layout=compact&theme=tokyonight&cache_seconds=600"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamkhairmode15&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=prathamkhairmode15&theme=radical&cache_seconds=600"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamkhairmode15&theme=tokyo-night&cache_seconds=600"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
