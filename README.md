@@ -85,21 +85,11 @@ Computer Science Undergrad | Aspiring Cybersecurity Analyst & Junior Java Develo
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prathamkhairmode15&theme=tokyonight"/>
-<img src="https://streak-stats.demolab.com?user=prathamkhairmode15&theme=radical&cache_seconds=600"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamkhairmode15&theme=tokyonight"/>
+<img src="https://github.pumbas.net/api/contributions/prathamkhairmode15" alt="YOUR_GITHUB_USERNAME's Contributions"/>
 </p>
 
 ---
