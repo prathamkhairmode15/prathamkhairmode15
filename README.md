@@ -1,7 +1,7 @@
 <h1 align="center">HI, I am Pratham Sachin Khairmode</h1>
 
 <p align="center">
-Computer Science Undergrad | Aspiring Cybersecurity Analyst & Junior Java Developer
+Computer Science Undergrad | Aspiring Cybersecurity Enginerr
 </p>
 
 <p align="center">
