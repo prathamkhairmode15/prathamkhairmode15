@@ -83,37 +83,3 @@ Computer Science Undergrad | Aspiring Cybersecurity Enginerr
 🌾 **Krishibodh** – Smart Greenhouse Automation System  
 📊 **MODULO** – Hash Generator with Dictionary Attack  
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github.pumbas.net/api/contributions/prathamkhairmode15" alt="YOUR_GITHUB_USERNAME's Contributions"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/prathamkhairmode15">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-⚡ <b>Exploring Systems | Breaking Security | Building Defenses</b> ⚡
-</p>
-
-<p align="center">
-⭐ If you like my work, consider starring my repositories
-</p>
